@@ -1,0 +1,9 @@
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\bin\Debug\libAlquilerVehiculos.dll
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\bin\Debug\libAlquilerVehiculos.pdb
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\bin\Debug\libComunes.dll
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\bin\Debug\libComunes.pdb
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\obj\Debug\libAlquilerVehiculos.csproj.AssemblyReference.cache
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\obj\Debug\libAlquilerVehiculos.csproj.CoreCompileInputs.cache
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\obj\Debug\libAlquilerVehiculos.csproj.CopyComplete
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\obj\Debug\libAlquilerVehiculos.dll
+D:\RentaVehiculos\Clases\libAlquilerVehiculos\obj\Debug\libAlquilerVehiculos.pdb
